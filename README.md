@@ -5,9 +5,10 @@
 This is the github repository hosting the code and a data file related to the following publication.
 
 ---
-
+Authors:
 Fabio Dennstädt, Max Schmerder, Elean Riggenbach, Lucas Mose, Katarina Bryjova, Nicolas Bachmann, Paul-Henry Mackeprang, Maiwand Ahmadsei, Dubravko Sinovcic, Paul Windisch, Daniel R Zwahlen, Susanne J Rogers, Oliver Riesterer, Martin Maffei, Eleni Gkika, Hathal Haddad, Jan C Peeken, Paul Martin Putora, Markus Glatzer, Florian Putz, Daniel Hoefler, Sebastian M Christ, Irina Filchenko, Janna Hastings, Roberto Gaio, Lawrence Chiang, Daniel Aebersold, Nikola Cihoric
 
+Title:
 A multicentric study comparing a medical LLM's performance with clinical experts in radiation oncology.\
 *XXXXXX, DOI XXXXX
 
