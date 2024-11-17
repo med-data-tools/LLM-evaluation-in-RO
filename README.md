@@ -1,3 +1,27 @@
 # LLM-evaluation-in-RO
 
-What is this?
+## What is this?
+
+This is the github repository hosting the code and a data file related to the following publication.
+
+---
+
+Fabio Dennstädt, Max Schmerder, Elean Riggenbach, Lucas Mose, Katarina Bryjova, Nicolas Bachmann, Paul-Henry Mackeprang, Maiwand Ahmadsei, Dubravko Sinovcic, Paul Windisch, Daniel R Zwahlen, Susanne J Rogers, Oliver Riesterer, Martin Maffei, Eleni Gkika, Hathal Haddad, Jan C Peeken, Paul Martin Putora, Markus Glatzer, Florian Putz, Daniel Hoefler, Sebastian M Christ, Irina Filchenko, Janna Hastings, Roberto Gaio, Lawrence Chiang, Daniel Aebersold, Nikola Cihoric
+
+A multicentric study comparing a medical LLM's performance with clinical experts in radiation oncology.\
+*XXXXXX, DOI XXXXX
+
+---
+
+The publication is about a multicentric evaluation study investigating the performance of the medical open-source LLM Llama3-OpenBioLLM-70B in answering questions from real-life clinical practice of radiation therapy. The performance of the LLM was compared to that of clinical experts in a blinded review.
+
+
+## Content
+
+### script.ipynb
+
+A python jupyter script used to run the LLM as reported in the article.
+
+### dataset.csv
+
+A data set containing the 50 questions collected from real-life clinical practice of radiation therapy used in the study.
