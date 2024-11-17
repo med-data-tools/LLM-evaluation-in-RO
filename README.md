@@ -22,6 +22,6 @@ The publication is about a multicentric evaluation study investigating the perfo
 
 A python jupyter script used to run the LLM as reported in the article.
 
-### dataset.csv
+### questions used in the study with answers of LLM and evaluations.docx and .csv
 
-A data set containing the 50 questions collected from real-life clinical practice of radiation therapy used in the study.
+A data set containing the 50 questions collected from real-life clinical practice of radiation therapy used in the study together with the answers of the LLM, the difficulty of the questions and the quality of the answers as evaluated in the study.
